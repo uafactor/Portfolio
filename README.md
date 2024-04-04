@@ -1,6 +1,6 @@
 # Leon Brown
 ## Experienced Technical Writer and Scrum Master
-This portfolio site is a work in progress. For now, it just links to a few of my writing samples organized by company below. In the near future, I will incorporate a Jekyll theme.
+I am currently building my new portfolio with Docusaurus. For now, this page just links to a few of my writing samples organized by company below.
 
 ### Sourcefire
 * [Sourcefire 3D System: Using Gateway VPN](http://uafactor.com/assets/Leon_Brown_Writing_Sample1_Using_Gateway_VPN.pdf)
